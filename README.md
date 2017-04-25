@@ -49,4 +49,11 @@ Please note that this project is in it's early stages and not yet production rea
 
 Also, please note that this project is being primarily developed for our own internal use. You may freely use and adapt it for your own purposes, but we cannot offer support for uses beyond what it was designed for.
 
+## Project Status and Roadmap
 
+Gibraltar is currently in pre-release development, moving toward stage alpha. Below is a brief outline of our near-term roadmap.
+
+ - stage alpha: A VueJS Single Page App framework that works with the WordPress API
+ - stage beta1: Routing layer moves to be platform agnostic with a separate WordPress API translator
+ - stage beta2: Framework is tested with routing translators for Ghost, Joomla, and Drupal
+ - release 1.0: Framework at stage beta2 meets all function and performance expectations
